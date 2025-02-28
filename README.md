@@ -7,7 +7,7 @@ The dataset used in this project contains various features extracted from networ
 
 ## EDA
 
-  1.Data cleaning 
+  1. Data cleaning 
   2. Data mining
   3. Multiple data blalancing methods: SMOTE, random oversampling, Undersampling methods
 
