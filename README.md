@@ -4,38 +4,46 @@
 ## Dataset
 The dataset used in this project contains various features extracted from network traffic. The goal is to classify instances into different categories of cyber attacks.
 
+
+## EDA
+
+  1.Data cleaning 
+  2. Data mining
+  3. Multiple data blalancing methods: SMOTE, random oversampling, Undersampling methods
+
+
 ## Models Used
 
 The following machine learning models are implemented in the notebook:
 
-Logistic Regression
+   1. Logistic Regression
 
-Decision Tree Classifier
+   2. Decision Tree Classifier
 
-Random Forest Classifier
+   3. Random Forest Classifier
 
-K-Nearest Neighbors (KNN)
+   4. K-Nearest Neighbors (KNN)
 
-AdaBoost Classifier
+   5. AdaBoost Classifier
 
-XGBoost Classifier
+   6. XGBoost Classifier
 
-Support Vector Machine (SVM)
+   7. Support Vector Machine (SVM)
 
 ## Evaluation Metrics
 
 The notebook evaluates the models using the following metrics:
 
-Accuracy
+   1. Accuracy
+   
+   2. Precision
+   
+   3. Recall
+   
+   4. F1-score
+   
+   5. ROC Curve and AUC Score
 
-Precision
-
-Recall
-
-F1-score
-
-ROC Curve and AUC Score
-
-Results
+# Results
 
 The notebook provides a comparative analysis of different models based on their performance. The best-performing model can be selected based on accuracy and other evaluation metrics.
